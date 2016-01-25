@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Albums>
+  <Album>
+    <Name>The Best Album</Name>
+    <Artist>Ivan The Singer</Artist>
+  </Album>
+  <Album>
+    <Name>The Worst Album</Name>
+    <Artist>Petkan Petkanov</Artist>
+  </Album>
+  <Album>
+    <Name>Golden Album</Name>
+    <Artist>Dragana Draganovich</Artist>
+  </Album>
+  <Album>
+    <Name>Platinum Album</Name>
+    <Artist>Dragana Draganovich</Artist>
+  </Album>
+  <Album>
+    <Name>Just an Album</Name>
+    <Artist>John Smith</Artist>
+  </Album>
+</Albums>

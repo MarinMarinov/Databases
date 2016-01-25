@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="stylesheet.xslt" ?>
+<students xmlns:students="urn:telerikacademy.com">
+  <student>
+    <name>Ivan Petrov</name>
+    <gender>Male</gender>
+    <birthdate>1985-03-11</birthdate>
+    <phone>+359123456789</phone>
+    <email>ivan@petrov.com</email>
+    <course>On-line</course>
+    <specialty>QA</specialty>
+    <facultynumber>5105648</facultynumber>
+    <enrollments>
+      <date>2014-02-02</date>
+      <score>57</score>
+    </enrollments>
+    <teacherEndorsments>
+      <name1>Nikolay Kostov</name1>
+      <name2>Ivaylo Kenov</name2>
+      <name3>Doncho Minkov</name3>
+      <name4>Evlogi Hristov</name4>
+    </teacherEndorsments>
+    <exams>
+      <exam>
+        <name>C# part1</name>
+        <tutor>Nikolay Kostov</tutor>
+        <score>200</score>
+      </exam>
+      <exam>
+        <name>JavaScript Fundamentals</name>
+        <tutor>Doncho Minkov</tutor>
+        <score>120</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Petranka Dimitrova</name>
+    <gender>Female</gender>
+    <birthdate>1915-11-11</birthdate>
+    <phone>+359116565454</phone>
+    <email>petranka@dimitrova.com</email>
+    <course>Regular</course>
+    <specialty>Web Track</specialty>
+    <facultynumber>5105648</facultynumber>
+    <enrollments>
+      <date>2014-01-03</date>
+      <score>57</score>
+    </enrollments>
+    <teacherEndorsments>
+      <name1>Nikolay Kostov</name1>
+      <name2>Ivaylo Kenov</name2>
+      <name3>Doncho Minkov</name3>
+      <name4>Evlogi Hristov</name4>
+    </teacherEndorsments>
+    <exams>
+      <exam>
+        <name>C# OOP</name>
+        <tutor>Nikolay Kostov</tutor>
+        <score>250</score>
+      </exam>
+      <exam>
+        <name>JavaScript DOM and UI</name>
+        <tutor>Doncho Minkov</tutor>
+        <score>160</score>
+      </exam>
+    </exams>
+  </student>
+</students>

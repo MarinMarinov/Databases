@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectoryInfo>
+  <Dir name="HW02XMLProcessingInDotNET">
+    <File Name="README.md" />
+    <Dir name="HW02XMLProcessingInDotNET">
+      <File Name="HW02XMLProcessingInDotNET.sln" />
+      <File Name="HW02XMLProcessingInDotNET.v12.suo" />
+      <Dir name=".vs">
+        <Dir name="HW02XMLProcessingInDotNET">
+          <Dir name="v14">
+            <File Name=".suo" />
+          </Dir>
+        </Dir>
+      </Dir>
+      <Dir name="Task7.PersonInformation">
+        <File Name="App.config" />
+        <File Name="person.txt" />
+        <File Name="person.xml" />
+        <File Name="Program.cs" />
+        <File Name="Task7.PersonInformation.csproj" />
+        <File Name="Task7.PersonInformation.csproj.user" />
+        <Dir name="bin">
+          <Dir name="Debug">
+            <File Name="Task7.PersonInformation.exe" />
+            <File Name="Task7.PersonInformation.exe.config" />
+            <File Name="Task7.PersonInformation.pdb" />
+            <File Name="Task7.PersonInformation.vshost.exe" />
+            <File Name="Task7.PersonInformation.vshost.exe.config" />
+            <File Name="Task7.PersonInformation.vshost.exe.manifest" />
+          </Dir>
+        </Dir>
+        <Dir name="obj">
+          <Dir name="Debug">
+            <File Name="DesignTimeResolveAssemblyReferencesInput.cache" />
+            <File Name="Task7.PersonInformation.csproj.FileListAbsolute.txt" />
+            <File Name="Task7.PersonInformation.csprojResolveAssemblyReference.cache" />
+            <File Name="Task7.PersonInformation.exe" />
+            <File Name="Task7.PersonInformation.pdb" />
+            <File Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+            <File Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+            <File Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+            <Dir name="TempPE" />
+          </Dir>
+        </Dir>
+        <Dir name="Properties">
+          <File Name="AssemblyInfo.cs" />
+        </Dir>
+      </Dir>
+      <Dir name="Task9AndTask10">
+        <File Name="App.config" />
+        <File Name="directoryInfoFirst.xml" />
+        <File Name="Program.cs" />
+        <File Name="Task9AndTask10.csproj" />
+        <File Name="Task9AndTask10.csproj.user" />
+        <Dir name="bin">
+          <Dir name="Debug">
+            <File Name="Task9AndTask10.exe" />
+            <File Name="Task9AndTask10.exe.config" />
+            <File Name="Task9AndTask10.pdb" />
+            <File Name="Task9AndTask10.vshost.exe" />
+            <File Name="Task9AndTask10.vshost.exe.config" />
+            <File Name="Task9AndTask10.vshost.exe.manifest" />
+          </Dir>
+          <Dir name="Release" />
+        </Dir>
+        <Dir name="obj">
+          <Dir name="Debug">
+            <File Name="DesignTimeResolveAssemblyReferencesInput.cache" />
+            <File Name="Task9AndTask10.csproj.FileListAbsolute.txt" />
+            <File Name="Task9AndTask10.csprojResolveAssemblyReference.cache" />
+            <File Name="Task9AndTask10.exe" />
+            <File Name="Task9AndTask10.pdb" />
+            <File Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+            <File Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+            <File Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+            <Dir name="TempPE" />
+          </Dir>
+        </Dir>
+        <Dir name="Properties">
+          <File Name="AssemblyInfo.cs" />
+        </Dir>
+      </Dir>
+      <Dir name="Tasks1-Task6AndTask8">
+        <File Name="Album.cs" />
+        <File Name="AlbumFactory.cs" />
+        <File Name="albums.xml" />
+        <File Name="App.config" />
+        <File Name="Catalogue.cs" />
+        <File Name="catalogue.xml" />
+        <File Name="Program.cs" />
+        <File Name="Song.cs" />
+        <File Name="Tasks1-Task6AndTask8.csproj" />
+        <File Name="Tasks1-Task6AndTask8.csproj.user" />
+        <Dir name="bin">
+          <Dir name="Debug">
+            <File Name="Tasks1-Task6AndTask8.exe" />
+            <File Name="Tasks1-Task6AndTask8.exe.config" />
+            <File Name="Tasks1-Task6AndTask8.pdb" />
+            <File Name="Tasks1-Task6AndTask8.vshost.exe" />
+            <File Name="Tasks1-Task6AndTask8.vshost.exe.config" />
+          </Dir>
+          <Dir name="Release" />
+        </Dir>
+        <Dir name="obj">
+          <Dir name="Debug">
+            <File Name="DesignTimeResolveAssemblyReferencesInput.cache" />
+            <File Name="Tasks1-Task6AndTask8.csproj.FileListAbsolute.txt" />
+            <File Name="Tasks1-Task6AndTask8.csprojResolveAssemblyReference.cache" />
+            <File Name="Tasks1-Task6AndTask8.exe" />
+            <File Name="Tasks1-Task6AndTask8.pdb" />
+            <File Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+            <File Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+            <File Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+            <Dir name="TempPE" />
+          </Dir>
+        </Dir>
+        <Dir name="Properties">
+          <File Name="AssemblyInfo.cs" />
+        </Dir>
+      </Dir>
+    </Dir>
+  </Dir>
+</DirectoryInfo>

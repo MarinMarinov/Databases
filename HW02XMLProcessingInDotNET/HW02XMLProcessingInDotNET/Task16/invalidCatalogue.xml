@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalogue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Albums>
+    <Album>
+      <Name>The Best Album</Name>
+      <Artist>Ivan The Singer</Artist>
+      <Year>2015</Year>
+      <Producer>Pesho The Producer</Producer>
+      <Price>20</Price>
+      <Songs>
+        <Song>
+          <Name>The Best Album song 1</Name>
+          <Duration>00:03:11</Duration>
+        </Song>
+        <Song>
+          <Name>The Best Album song 2</Name>
+          <Duration>00:04:12</Duration>
+        </Song>
+        <Song>
+          <Name>The Best Album song 3</Name>
+          <Duration>00:05:13</Duration>
+        </Song>
+        <Song>
+          <Name>The Best Album song 4</Name>
+          <Duration>00:06:14</Duration>
+        </Song>
+        <Song>
+          <Duration>00:03:11</Duration>
+        </Song>
+        <Song>
+          <Name>The Worst Album song 2</Name>
+          <Duration>00:04:12</Duration>
+        </Song>
+        <Song>
+          <Name>The Worst Album song 3</Name>
+          <Duration>00:05:13</Duration>
+        </Song>
+        <Song>
+          <Name>The Worst Album song 4</Name>
+          <Duration>00:06:14</Duration>
+        </Song>
+        <Song>
+          <Name>The Worst Album song 5</Name>
+          <Duration>00:07:15</Duration>
+        </Song>
+        <Song>
+          <Name>The Worst Album song 6</Name>
+          <Duration>00:08:16</Duration>
+        </Song>
+        <Song>
+          <Name>The Worst Album song 7</Name>
+          <Duration>00:09:17</Duration>
+        </Song>
+        <Song>
+          <Name>The Worst Album song 8</Name>
+          <Duration>00:10:18</Duration>
+        </Song>
+        <Song>
+          <Name>The Worst Album song 9</Name>
+          <Duration>00:11:19</Duration>
+        </Song>
+        <Song>
+          <Name>The Worst Album song 10</Name>
+          <Duration>00:12:20</Duration>
+        </Song>
+      </Songs>
+    </Album>
+    <Album>
+      <Name>Golden Album</Name>
+      <Artist>Dragana Draganovich</Artist>
+      <Year>2013</Year>
+      <Producer>Serbian Productions company</Producer>
+      <Price>18</Price>
+      <Songs>
+        <Song>
+          <Name>Golden Album song 1</Name>
+          <Duration>00:03:11</Duration>
+        </Song>
+        <Song>
+          <Name>Golden Album song 2</Name>
+          <Duration>00:04:12</Duration>
+        </Song>
+        <Song>
+          <Name>Golden Album song 3</Name>
+          <Duration>00:05:13</Duration>
+        </Song>
+        <Song>
+          <Name>Golden Album song 4</Name>
+          <Duration>00:06:14</Duration>
+        </Song>
+        <Song>
+          <Name>Golden Album song 5</Name>
+          <Duration>00:07:15</Duration>
+        </Song>
+        <Song>
+          <Name>Golden Album song 6</Name>
+          <Duration>00:08:16</Duration>
+        </Song>
+        <Song>
+          <Name>Golden Album song 7</Name>
+          <Duration>00:09:17</Duration>
+        </Song>
+        <Song>
+          <Name>Golden Album song 8</Name>
+          <Duration>00:10:18</Duration>
+        </Song>
+      </Songs>
+    </Album>
+    <Album>
+      <Name>Platinum Album</Name>
+      <Artist>Dragana Draganovich</Artist>
+      <Year>2015</Year>
+      <Producer>Serbian Productions company</Producer>
+      <Price>22</Price>
+      <Songs>
+        <Song>
+          <Name>Platinum Album song 1</Name>
+          <Duration>00:03:11</Duration>
+        </Song>
+        <Song>
+          <Name>Platinum Album song 2</Name>
+          <Duration>00:04:12</Duration>
+        </Song>
+        <Song>
+          <Name>Platinum Album song 3</Name>
+          <Duration>00:05:13</Duration>
+        </Song>
+        <Song>
+          <Name>Platinum Album song 4</Name>
+          <Duration>00:06:14</Duration>
+        </Song>
+        <Song>
+          <Name>Platinum Album song 5</Name>
+          <Duration>00:07:15</Duration>
+        </Song>
+        <Song>
+          <Name>Platinum Album song 6</Name>
+          <Duration>00:08:16</Duration>
+        </Song>
+        <Song>
+          <Name>Platinum Album song 7</Name>
+          <Duration>00:09:17</Duration>
+        </Song>
+        <Song>
+          <Name>Platinum Album song 8</Name>
+          <Duration>00:10:18</Duration>
+        </Song>
+        <Song>
+          <Name>Platinum Album song 9</Name>
+          <Duration>00:11:19</Duration>
+        </Song>
+        <Song>
+          <Name>Platinum Album song 10</Name>
+          <Duration>00:12:20</Duration>
+        </Song>
+        <Song>
+          <Name>Platinum Album song 11</Name>
+          <Duration>00:13:21</Duration>
+        </Song>
+      </Songs>
+    </Album>
+    <Album>
+      <Name>Just an Album</Name>
+      <Artist>John Smith</Artist>
+      <Year>2008</Year>
+      <Producer>Sony Music company</Producer>
+      <Price>19</Price>
+      <Songs>
+        <Song>
+          <Name>Just an Album song 1</Name>
+          <Duration>00:03:11</Duration>
+        </Song>
+        <Song>
+          <Name>Just an Album song 2</Name>
+          <Duration>00:04:12</Duration>
+        </Song>
+        <Song>
+          <Name>Just an Album song 3</Name>
+          <Duration>00:05:13</Duration>
+        </Song>
+        <Song>
+          <Name>Just an Album song 4</Name>
+          <Duration>00:06:14</Duration>
+        </Song>
+        <Song>
+          <Name>Just an Album song 5</Name>
+          <Duration>00:07:15</Duration>
+        </Song>
+        <Song>
+          <Name>Just an Album song 6</Name>
+          <Duration>00:08:16</Duration>
+        </Song>
+        <Song>
+          <Name>Just an Album song 7</Name>
+          <Duration>00:09:17</Duration>
+        </Song>
+      </Songs>
+    </Album>
+  </Albums>
+</Catalogue>
